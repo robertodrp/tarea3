@@ -1,0 +1,92 @@
+@font-face {
+
+    font-family: fuenteRobe;/*Nombre con el cual llamare a mi fuente*/
+    
+    src: url(C:\Users\rdelr\tarea\tarea3\Recursos\Fuente\Midnight Shadows.otf);/*Ruta donde esta la fuente*/
+    
+    }
+
+    .fondoimagen{
+        background-image: url(media/descarga.jpg);
+        width: 100%;
+        background-repeat:no-repeat;
+        text-align: center;
+        background-size: 10rem;/*Tamaño especifico de las imagenes de fondo*/
+        padding: 25px;
+    }
+
+body{
+    background-color: #2e359b;   
+    font-family: sans-serif;
+    padding: 5em;
+    
+}
+
+
+.fondoblanco{
+    background-color: white;
+}
+
+.fondoazul{
+    background-color: #12aaaa;
+    
+}
+
+.fondonegro{
+    background-color: #000000;
+
+}
+
+.texto1{
+
+        text-align: center;
+        font-size: 5em;
+        color: #2522b9;
+}
+.texto2{
+
+    padding: 5px;
+    font-size: 2em;
+    color: #26262b;
+    text-align: justify;
+    font-family: fuenteRobe;
+   
+
+}
+
+.texto3{
+
+    font-size: 2em;
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+
+}
+
+.texto4{
+
+    font-size: 1em;
+    color: white;
+    text-align: left;
+    font-family: fuenteRobe;
+    padding-left:15px ;
+}
+
+.imagenEstilo{
+
+    width: 150px;
+    text-align: center;
+}
+
+
+
+.bordeblanco{
+    border: 20px solid white;
+    border-radius: 15px;
+
+}
+
+.separa{
+
+    padding: 2em;
+}
